@@ -2,12 +2,16 @@
 import requests
 import os
 #建立get函数
-def get():
+def get(version):
     #get到版本
     x = requests.get("https://xtgjx.komoni.xyz/version.txt")
-    if int(x.content) != 100000: #如果获取到的不等于100000版本号
+    if int(x.content) > version: #如果获取到的不等于100000版本号
         y = requests.get("https://xtgjx.komoni.xyz/webdownload.txt") #get到下载链接
         return y.content #返回下载值
+    # 如果获取到的大于获取到的版本号
+    elif int(x.content) < version: #如果获取到的版本号大于
+        x = "demo"
+        return x #返回下载值
     else: #否则
         return False #返回否
 #建立updata函数
