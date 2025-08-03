@@ -1,0 +1,19 @@
+2025-05-21 21:08:23,994 - INFO - ------检查更新程序1.0------ 
+        由xiaotbl制作      
+更多信息请访问:"https://xigjx.komoni.xyz/updata_module"
+2025-05-21 21:08:34,140 - DEBUG - Starting new HTTPS connection (1): xtgjx.komoni.xyz:443
+2025-05-21 21:08:35,557 - DEBUG - https://xtgjx.komoni.xyz:443 "GET /version.txt HTTP/1.1" 200 None
+2025-05-21 21:08:35,560 - DEBUG - Starting new HTTPS connection (1): xtgjx.komoni.xyz:443
+2025-05-21 21:08:39,222 - DEBUG - https://xtgjx.komoni.xyz:443 "GET /webdownload.txt HTTP/1.1" 200 None
+2025-05-21 21:08:39,224 - DEBUG - Starting new HTTPS connection (1): xtgjx.komoni.xyz:443
+2025-05-21 21:08:41,636 - DEBUG - https://xtgjx.komoni.xyz:443 "GET /download/100000bt.zip HTTP/1.1" 200 18387539
+2025-05-21 21:09:14,921 - INFO - 更新完成
+2025-05-21 21:09:14,921 - INFO - 更新结果: True
+2025-05-21 21:09:35,186 - INFO - ------检查更新程序1.0------ 
+        由xiaotbl制作      
+更多信息请访问:"https://xigjx.komoni.xyz/updata_module"
+2025-05-21 21:09:40,950 - DEBUG - Starting new HTTPS connection (1): xtgjx.komoni.xyz:443
+2025-05-21 21:09:42,880 - DEBUG - https://xtgjx.komoni.xyz:443 "GET /version.txt HTTP/1.1" 200 None
+2025-05-21 21:09:42,881 - INFO - 当前版本为测试版本
+2025-05-21 21:09:42,881 - INFO - 当前版本为测试版本
+2025-05-21 21:09:42,881 - INFO - 更新结果: demo
