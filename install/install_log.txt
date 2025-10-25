@@ -1,0 +1,136 @@
+[2025-10-25 20:09:17] 开始安装...
+[2025-10-25 20:09:17] 开始读取本地安装文件...
+[2025-10-25 20:09:17] 开始解压文件...
+[2025-10-25 20:09:17] 发现 34 个文件
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsExec.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsExec64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/psfile.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/psfile64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsGetsid.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsGetsid64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsInfo.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsInfo64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/pskill.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/pskill64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/pslist.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/pslist64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsLoggedon.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsLoggedon64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/psloglist.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/psloglist64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/pspasswd.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/pspasswd64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/psping.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/psping64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsService.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/PsService64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/psshutdown.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/psshutdown64.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/pssuspend.exe
+[2025-10-25 20:09:17] 解压文件: bin/pstool/pssuspend64.exe
+[2025-10-25 20:09:17] 解压文件: bin/totp/totp.exe
+[2025-10-25 20:09:17] 解压文件: bin/weather/weather.exe
+[2025-10-25 20:09:18] 解压文件: main.exe
+[2025-10-25 20:09:18] 解压文件: uninstall.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsExec.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsExec.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsExec64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsExec64.exe
+[2025-10-25 20:09:18] 复制文件: web\uninstall.exe -> C:\Program Files (x86)\xtgjx\uninstall.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsGetsid64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsGetsid64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\psfile.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psfile.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\psfile64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psfile64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsGetsid.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsGetsid.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\pskill.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pskill.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsLoggedon64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsLoggedon64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsInfo.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsInfo.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\pskill64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pskill64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsInfo64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsInfo64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\pslist64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pslist64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\pslist.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pslist.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsLoggedon.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsLoggedon.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\pspasswd.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pspasswd.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\psloglist.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psloglist.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\psloglist64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psloglist64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\pspasswd64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pspasswd64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\psping.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psping.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsService.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsService.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\psping64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psping64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\psshutdown64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psshutdown64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\psshutdown.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psshutdown.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\PsService64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsService64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\pssuspend.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pssuspend.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\pstool\pssuspend64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pssuspend64.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\totp\totp.exe -> C:\Program Files (x86)\xtgjx\bin\totp\totp.exe
+[2025-10-25 20:09:18] 复制文件: web\main.exe -> C:\Program Files (x86)\xtgjx\main.exe
+[2025-10-25 20:09:18] 复制文件: web\bin\weather\weather.exe -> C:\Program Files (x86)\xtgjx\bin\weather\weather.exe
+[2025-10-25 20:09:18] 创建注册表项...
+[2025-10-25 20:09:18] 创建桌面快捷方式...
+[2025-10-25 20:09:19] 清理临时目录...
+[2025-10-25 20:09:19] 安装成功!
+[2025-10-25 20:09:20] 启动应用程序...
+[2025-10-25 20:12:05] 开始读取本地安装文件...
+[2025-10-25 20:12:05] 开始解压文件...
+[2025-10-25 20:12:05] 发现 34 个文件
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsExec.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsExec64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/psfile.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/psfile64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsGetsid.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsGetsid64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsInfo.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsInfo64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/pskill.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/pskill64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/pslist.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/pslist64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsLoggedon.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsLoggedon64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/psloglist.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/psloglist64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/pspasswd.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/pspasswd64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/psping.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/psping64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsService.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/PsService64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/psshutdown.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/psshutdown64.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/pssuspend.exe
+[2025-10-25 20:12:05] 解压文件: bin/pstool/pssuspend64.exe
+[2025-10-25 20:12:05] 解压文件: bin/totp/totp.exe
+[2025-10-25 20:12:05] 解压文件: bin/weather/weather.exe
+[2025-10-25 20:12:05] 解压文件: main.exe
+[2025-10-25 20:12:05] 解压文件: uninstall.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\PsExec.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsExec.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\psfile64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psfile64.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\PsExec64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsExec64.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\psfile.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psfile.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\PsGetsid.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsGetsid.exe
+[2025-10-25 20:12:05] 复制文件: web\uninstall.exe -> C:\Program Files (x86)\xtgjx\uninstall.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\PsGetsid64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsGetsid64.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\PsInfo.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsInfo.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\pskill.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pskill.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\PsInfo64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsInfo64.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\pskill64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pskill64.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\PsLoggedon64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsLoggedon64.exe
+[2025-10-25 20:12:05] 复制文件: web\bin\pstool\pslist64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pslist64.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\psloglist.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psloglist.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\pslist.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pslist.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\PsLoggedon.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsLoggedon.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\pspasswd64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pspasswd64.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\pspasswd.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pspasswd.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\psloglist64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psloglist64.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\psping.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psping.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\psping64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psping64.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\PsService.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsService.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\psshutdown.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psshutdown.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\PsService64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\PsService64.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\pssuspend64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pssuspend64.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\totp\totp.exe -> C:\Program Files (x86)\xtgjx\bin\totp\totp.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\pssuspend.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\pssuspend.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\pstool\psshutdown64.exe -> C:\Program Files (x86)\xtgjx\bin\pstool\psshutdown64.exe
+[2025-10-25 20:12:06] 复制文件: web\main.exe -> C:\Program Files (x86)\xtgjx\main.exe
+[2025-10-25 20:12:06] 复制文件: web\bin\weather\weather.exe -> C:\Program Files (x86)\xtgjx\bin\weather\weather.exe
+[2025-10-25 20:12:06] 创建注册表项...
+[2025-10-25 20:12:06] 创建桌面快捷方式...
+[2025-10-25 20:12:06] 清理临时目录...
+[2025-10-25 20:12:06] 安装成功!

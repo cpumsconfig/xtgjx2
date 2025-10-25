@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\xtgjx]
+@="URL:xtgjx Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\xtgjx\shell]
+
+[HKEY_CLASSES_ROOT\xtgjx\shell\open]
+
+[HKEY_CLASSES_ROOT\xtgjx\shell\open\command]
+@="\"python.exe\" \"D:\\11\\xtgjx\\demo_web.py\" \"%1\""

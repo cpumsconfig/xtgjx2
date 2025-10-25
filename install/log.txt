@@ -1,0 +1,61 @@
+2025-10-25 20:12:10,120 - INFO - main.py:559 - ------系统工具箱1.0------ 
+        由xiaotbl制作      
+更多信息请访问:"https://xigjx.komoni.xyz/updata_module"
+2025-10-25 20:12:10,120 - INFO - main.py:560 - 尝试获取setting的设置文件
+2025-10-25 20:12:10,120 - ERROR - main.py:583 - 找不到设置文件，创建新的文件
+2025-10-25 20:12:10,121 - INFO - main.py:593 - 程序已启动
+2025-10-25 20:12:10,152 - INFO - main.py:185 - 主窗口UI文件加载成功
+2025-10-25 20:12:10,271 - INFO - main.py:24 - 获取资源文件路径: icon.ico
+2025-10-25 20:12:10,309 - INFO - main.py:216 - 压缩包选项未选中，禁用压缩包按钮
+2025-10-25 20:12:10,309 - INFO - main.py:602 - 尝试运行系统托盘
+2025-10-25 20:12:10,309 - INFO - main.py:24 - 获取资源文件路径: icon.ico
+2025-10-25 20:12:10,322 - INFO - main.py:619 - 系统托盘运行成功
+2025-10-25 20:12:10,322 - INFO - main.py:627 - 主窗口已显示
+2025-10-25 20:12:10,329 - DEBUG - Image.py:405 - Importing BlpImagePlugin
+2025-10-25 20:12:10,330 - DEBUG - Image.py:405 - Importing BmpImagePlugin
+2025-10-25 20:12:10,330 - DEBUG - Image.py:405 - Importing BufrStubImagePlugin
+2025-10-25 20:12:10,330 - DEBUG - Image.py:405 - Importing CurImagePlugin
+2025-10-25 20:12:10,331 - DEBUG - Image.py:405 - Importing DcxImagePlugin
+2025-10-25 20:12:10,331 - DEBUG - Image.py:405 - Importing DdsImagePlugin
+2025-10-25 20:12:10,334 - DEBUG - Image.py:405 - Importing EpsImagePlugin
+2025-10-25 20:12:10,335 - DEBUG - Image.py:405 - Importing FitsImagePlugin
+2025-10-25 20:12:10,336 - DEBUG - Image.py:405 - Importing FliImagePlugin
+2025-10-25 20:12:10,336 - DEBUG - Image.py:405 - Importing FpxImagePlugin
+2025-10-25 20:12:10,337 - DEBUG - Image.py:408 - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-10-25 20:12:10,337 - DEBUG - Image.py:405 - Importing FtexImagePlugin
+2025-10-25 20:12:10,338 - DEBUG - Image.py:405 - Importing GbrImagePlugin
+2025-10-25 20:12:10,338 - DEBUG - Image.py:405 - Importing GifImagePlugin
+2025-10-25 20:12:10,338 - DEBUG - Image.py:405 - Importing GribStubImagePlugin
+2025-10-25 20:12:10,338 - DEBUG - Image.py:405 - Importing Hdf5StubImagePlugin
+2025-10-25 20:12:10,339 - DEBUG - Image.py:405 - Importing IcnsImagePlugin
+2025-10-25 20:12:10,340 - DEBUG - Image.py:405 - Importing IcoImagePlugin
+2025-10-25 20:12:10,341 - DEBUG - Image.py:405 - Importing ImImagePlugin
+2025-10-25 20:12:10,342 - DEBUG - Image.py:405 - Importing ImtImagePlugin
+2025-10-25 20:12:10,342 - DEBUG - Image.py:405 - Importing IptcImagePlugin
+2025-10-25 20:12:10,342 - DEBUG - Image.py:405 - Importing JpegImagePlugin
+2025-10-25 20:12:10,342 - DEBUG - Image.py:405 - Importing Jpeg2KImagePlugin
+2025-10-25 20:12:10,342 - DEBUG - Image.py:405 - Importing McIdasImagePlugin
+2025-10-25 20:12:10,343 - DEBUG - Image.py:405 - Importing MicImagePlugin
+2025-10-25 20:12:10,344 - DEBUG - Image.py:408 - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-10-25 20:12:10,344 - DEBUG - Image.py:405 - Importing MpegImagePlugin
+2025-10-25 20:12:10,344 - DEBUG - Image.py:405 - Importing MpoImagePlugin
+2025-10-25 20:12:10,355 - DEBUG - Image.py:405 - Importing MspImagePlugin
+2025-10-25 20:12:10,355 - DEBUG - Image.py:405 - Importing PalmImagePlugin
+2025-10-25 20:12:10,356 - DEBUG - Image.py:405 - Importing PcdImagePlugin
+2025-10-25 20:12:10,356 - DEBUG - Image.py:405 - Importing PcxImagePlugin
+2025-10-25 20:12:10,356 - DEBUG - Image.py:405 - Importing PdfImagePlugin
+2025-10-25 20:12:10,361 - DEBUG - Image.py:405 - Importing PixarImagePlugin
+2025-10-25 20:12:10,362 - DEBUG - Image.py:405 - Importing PngImagePlugin
+2025-10-25 20:12:10,362 - DEBUG - Image.py:405 - Importing PpmImagePlugin
+2025-10-25 20:12:10,362 - DEBUG - Image.py:405 - Importing PsdImagePlugin
+2025-10-25 20:12:10,363 - DEBUG - Image.py:405 - Importing QoiImagePlugin
+2025-10-25 20:12:10,363 - DEBUG - Image.py:405 - Importing SgiImagePlugin
+2025-10-25 20:12:10,363 - DEBUG - Image.py:405 - Importing SpiderImagePlugin
+2025-10-25 20:12:10,364 - DEBUG - Image.py:405 - Importing SunImagePlugin
+2025-10-25 20:12:10,364 - DEBUG - Image.py:405 - Importing TgaImagePlugin
+2025-10-25 20:12:10,364 - DEBUG - Image.py:405 - Importing TiffImagePlugin
+2025-10-25 20:12:10,364 - DEBUG - Image.py:405 - Importing WebPImagePlugin
+2025-10-25 20:12:10,379 - DEBUG - Image.py:405 - Importing WmfImagePlugin
+2025-10-25 20:12:10,379 - DEBUG - Image.py:405 - Importing XbmImagePlugin
+2025-10-25 20:12:10,380 - DEBUG - Image.py:405 - Importing XpmImagePlugin
+2025-10-25 20:12:10,380 - DEBUG - Image.py:405 - Importing XVThumbImagePlugin

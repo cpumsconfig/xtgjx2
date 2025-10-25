@@ -1,0 +1,1 @@
+pyinstaller --onefile --uac-admin --add-data="install.ui:." --add-data="icon.ico:." --add-data="install.zip:." --icon="icon.ico" --noconsole 1.py
